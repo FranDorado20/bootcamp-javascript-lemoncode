@@ -23,3 +23,18 @@ body {
     display: flex;
     justify-content: space-between;
 } 
+
+/*diff */
+.hotels-name {
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.hotel-description {
+    font-size: 20px;
+    font-weight: 300;
+}
+/*diff */
