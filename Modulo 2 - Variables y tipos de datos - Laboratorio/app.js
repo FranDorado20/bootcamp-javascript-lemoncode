@@ -1,7 +1,8 @@
 var hotel = {
   name: "W Barcelona",
   location: "Barcelona",
-  img: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/94/fd/b6/exterior-mediterranean.jpg?w=1200&h=-1&s=1",};
+  img: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/94/fd/b6/exterior-mediterranean.jpg?w=1200&h=-1&s=1",
+};
 
 document.getElementById("name-hotel").innerHTML = "Hotel " + hotel.name;
 document.getElementById("location-hotel").innerHTML =
