@@ -1,6 +1,6 @@
 var hoteles = {
   W: {
-    name: " W Barcelona",
+    name: " W ",
     location: "Barcelona",
     img: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/94/fd/b6/exterior-mediterranean.jpg?w=1200&h=-1&s=1",
   },
