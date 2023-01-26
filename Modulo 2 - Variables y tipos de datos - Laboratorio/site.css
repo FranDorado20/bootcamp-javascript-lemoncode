@@ -25,3 +25,8 @@ body {
   height: 300px;
   width: 300px;
 }
+
+.stars span {
+  color: darkmagenta;
+  font-size: 20px;
+}
