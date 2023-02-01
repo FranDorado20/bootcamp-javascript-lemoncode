@@ -1,0 +1,30 @@
+.body {
+  margin: 0;
+  background-color: aqua;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  cursor: pointer;
+  margin: 5px;
+  padding: 0px;
+  border-radius: 20px;
+  font-size: medium;
+  background-color: aqua;
+  box-shadow: 5px 5px 10px;
+}
+
+.result {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.header {
+  font-size: 50px;
+}
