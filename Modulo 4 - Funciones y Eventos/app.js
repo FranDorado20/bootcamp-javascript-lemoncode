@@ -19,7 +19,7 @@ var showResultdividir = () =>
   (document.getElementById("resultado").innerText = dividir());
 
 // actividad en bottones
-document.getElementById("sumar").addEventListener("click", sumar);
-document.getElementById("restar").addEventListener("click", restar);
-document.getElementById("multi").addEventListener("click", multi);
-document.getElementById("dividir").addEventListener("click", dividir);
+document.getElementById("sumar").addEventListener("click", showResultsuma );
+document.getElementById("restar").addEventListener("click",showResultresta);
+document.getElementById("multi").addEventListener("click", showResultmulti);
+document.getElementById("dividir").addEventListener("click", showResultdividir);
